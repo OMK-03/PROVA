@@ -1,1 +1,3 @@
-Nuovo file
+Nuovo file.
+
+Aggiunta frase.
